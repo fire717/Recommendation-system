@@ -14,7 +14,7 @@
 * Toward the Next Generation of Recommender Systems: Applications and Research Challenges，Alexander Felfernig，2013
 * Performance of recommender algorithms on
 top-N recommendation tasks，Paolo Cremonesi，2010
-* A Survey of Collaborative Filtering Techniques，Xiaoyuan Su，2009 
+* A Survey of Collaborative Filtering Techniques，Xiaoyuan Su，2009  [【笔记】](./note/协同过滤学习记录.md)
 * 个性化推荐系统的研究进展，刘建国，2009
 * Introduction To Recommender Systems: Algorithms and Evaluation，ACM，2004
 * [知乎|推荐系统有哪些比较好的论文？](https://www.zhihu.com/question/25566638)
