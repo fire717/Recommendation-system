@@ -3,7 +3,8 @@
 
 ### 1.书籍
 * [集体智慧编程](https://book.douban.com/subject/3288908/)
-* [推荐系统（[奥]D J）](https://book.douban.com/subject/24746415/)
+* [推荐系统（[奥]D J）](https://book.douban.com/subject/24746415/) [【笔记】](./note/《推荐系统[奥]DJ.AF》笔记.md)
+* [推荐系统实践](https://book.douban.com/subject/10769749/)
 
 ### 2.论文
 * Deep Learning based Recommender System: A Survey and New Perspectives，SHUAI ZHANG，2017
