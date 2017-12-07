@@ -2,7 +2,7 @@
 > Fire 2017.12.04 
 
 ### 1.书籍
-* [集体智慧编程](https://book.douban.com/subject/3288908/)
+* ~~[集体智慧编程](https://book.douban.com/subject/3288908/)~~
 * ~~[推荐系统（[奥]D J）](https://book.douban.com/subject/24746415/)~~ | [【笔记】](./note/《推荐系统[奥]DJ.AF》笔记.md)
 * [推荐系统实践](https://book.douban.com/subject/10769749/)
 
@@ -16,7 +16,7 @@
 * Performance of recommender algorithms on
 top-N recommendation tasks，Paolo Cremonesi，2010
 * ~~A Survey of Collaborative Filtering Techniques，Xiaoyuan Su，2009~~ | [【笔记】](./note/协同过滤学习记录.md)
-* 个性化推荐系统的研究进展，刘建国，2009
+* ~~个性化推荐系统的研究进展，刘建国，2009~~
 * Introduction To Recommender Systems: Algorithms and Evaluation，ACM，2004
 * [知乎|推荐系统有哪些比较好的论文？](https://www.zhihu.com/question/25566638)
 
