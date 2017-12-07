@@ -7,7 +7,7 @@
 * [推荐系统实践](https://book.douban.com/subject/10769749/)
 
 ### 2.论文
-* Deep Learning based Recommender System: A Survey and New Perspectives，SHUAI ZHANG，2017
+* ~~Deep Learning based Recommender System: A Survey and New Perspectives，SHUAI ZHANG，2017~~ | [【笔记】](./note/DL_RS.md)
 * A Survey on Recommendation System with Collaborative Filtering using Big Data，Sonali R. Gandhi，2017
 * Survey on Recommendation System，Lipi Shah，2016
 * ~~推荐系统研究进展，朱扬勇，孙 婧，2015~~
