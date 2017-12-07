@@ -21,6 +21,7 @@ top-N recommendation tasks，Paolo Cremonesi，2010
 * [知乎|推荐系统有哪些比较好的论文？](https://www.zhihu.com/question/25566638)
 
 ### 3.网站
+* [Netflix前推荐引擎总监Xavier在KDD2014上的压轴分享「The Recommender Problem Revisited」](https://wenku.baidu.com/view/ea8baee6e87101f69f3195aa.html)
 * 论文推荐：[推荐系统的循序进阶读物（从入门到精通）](http://blog.sciencenet.cn/home.php?mod=space&uid=210641&do=blog&id=508634)
 * 三个ppt：~~[推荐系统最基础的简介](https://wenku.baidu.com/view/735c66df3186bceb19e8bba6.html)~~ | [~~推荐系统~~](https://wenku.baidu.com/view/f086510a51e79b8969022681.html) | ~~[推荐系统简介](http://www.doc88.com/p-2032064171565.html)~~
 * [~~基于用户协同过滤与基于物品协同过滤的比较~~](http://blog.csdn.net/shenxiaoming77/article/details/51566481)
