@@ -8,7 +8,7 @@
 
 ### 2.论文
 * ~~Deep Learning based Recommender System: A Survey and New Perspectives，SHUAI ZHANG，2017~~ | [【笔记】](./note/DL_RS.md)
-* A Survey on Recommendation System with Collaborative Filtering using Big Data，Sonali R. Gandhi，2017
+* ~~A Survey on Recommendation System with Collaborative Filtering using Big Data，Sonali R. Gandhi，2017~~ | [【笔记】](./note/RS_CF_survey2017.md)
 * Survey on Recommendation System，Lipi Shah，2016
 * ~~推荐系统研究进展，朱扬勇，孙 婧，2015~~
 * Context-Aware Recommender Systems，Gediminas Adomavicius，2013
