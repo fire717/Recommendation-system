@@ -26,10 +26,10 @@ top-N recommendation tasks，Paolo Cremonesi，2010
 * [~~基于用户协同过滤与基于物品协同过滤的比较~~](http://blog.csdn.net/shenxiaoming77/article/details/51566481)
 * [【直播回顾】21天搭建推荐系统：实现“千人千面”个性化推荐（含视频）](https://yq.aliyun.com/articles/39629)
 * [探索推荐引擎内部的秘密](https://www.ibm.com/developerworks/cn/web/1103_zhaoct_recommstudy1/index.html)
-* [推荐系统有哪些坑？](https://www.zhihu.com/question/28247353)
-* [个性化推荐系统的六个问题](http://www.52ml.net/569.html)
+* [~~推荐系统有哪些坑？~~](https://www.zhihu.com/question/28247353)
+* [~~个性化推荐系统的六个问题~~](http://www.52ml.net/569.html)
 * [deep learning 可以用来做推荐系统吗？](https://www.zhihu.com/question/20830906)
-* [社交网络为用户进行「个性化推荐」的做法，是否会导致人们「难以接触到意见相左的人」？](https://www.zhihu.com/question/46480353)
+* [~~社交网络为用户进行「个性化推荐」的做法，是否会导致人们「难以接触到意见相左的人」？~~](https://www.zhihu.com/question/46480353)
 
 ### 4.现有产品
 现有产品一般都不会说明实现方式，大多数成熟商用的推荐系统都是混合型的。
