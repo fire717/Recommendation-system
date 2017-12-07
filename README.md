@@ -3,19 +3,19 @@
 
 ### 1.书籍
 * [集体智慧编程](https://book.douban.com/subject/3288908/)
-* [推荐系统（[奥]D J）](https://book.douban.com/subject/24746415/) | [【笔记】](./note/《推荐系统[奥]DJ.AF》笔记.md)
+* ~~[推荐系统（[奥]D J）](https://book.douban.com/subject/24746415/)~~ | [【笔记】](./note/《推荐系统[奥]DJ.AF》笔记.md)
 * [推荐系统实践](https://book.douban.com/subject/10769749/)
 
 ### 2.论文
 * Deep Learning based Recommender System: A Survey and New Perspectives，SHUAI ZHANG，2017
 * A Survey on Recommendation System with Collaborative Filtering using Big Data，Sonali R. Gandhi，2017
 * Survey on Recommendation System，Lipi Shah，2016
-* 推荐系统研究进展，朱扬勇，孙 婧，2015
+* ~~推荐系统研究进展，朱扬勇，孙 婧，2015~~
 * Context-Aware Recommender Systems，Gediminas Adomavicius，2013
 * Toward the Next Generation of Recommender Systems: Applications and Research Challenges，Alexander Felfernig，2013
 * Performance of recommender algorithms on
 top-N recommendation tasks，Paolo Cremonesi，2010
-* A Survey of Collaborative Filtering Techniques，Xiaoyuan Su，2009 | [【笔记】](./note/协同过滤学习记录.md)
+* ~~A Survey of Collaborative Filtering Techniques，Xiaoyuan Su，2009~~ | [【笔记】](./note/协同过滤学习记录.md)
 * 个性化推荐系统的研究进展，刘建国，2009
 * Introduction To Recommender Systems: Algorithms and Evaluation，ACM，2004
 * [知乎|推荐系统有哪些比较好的论文？](https://www.zhihu.com/question/25566638)
