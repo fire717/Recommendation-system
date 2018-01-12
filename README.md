@@ -19,7 +19,8 @@ top-N recommendation tasks，Paolo Cremonesi，2010
 * ~~个性化推荐系统的研究进展，刘建国，2009~~
 * Introduction To Recommender Systems: Algorithms and Evaluation，ACM，2004
 * [知乎|推荐系统有哪些比较好的论文？](https://www.zhihu.com/question/25566638)
-* [2016 RecSys 参会总结](https://www.douban.com/note/583716751/)
+* [~~2016 RecSys 参会总结~~](https://www.douban.com/note/583716751/)
+* [RecSys 2017](http://www.recsyschallenge.com/2017/#dates)
 
 ### 3.网站
 * [Netflix前推荐引擎总监Xavier在KDD2014上的压轴分享「The Recommender Problem Revisited」](https://wenku.baidu.com/view/ea8baee6e87101f69f3195aa.html)
