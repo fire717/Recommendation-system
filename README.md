@@ -45,6 +45,7 @@ top-N recommendation tasks，Paolo Cremonesi，2010
 * [知乎|网易云音乐的歌单推荐算法是怎样的？](https://www.zhihu.com/question/26743347)(高票答案实际讲的在netflix推荐算法比赛获奖的潜在因子（Latent
 Factor）算法)
 
+* [Youtube 视频推荐|Deep neural networks for YouTube recommendations](http://blog.csdn.net/xiongjiezk/article/details/73445835)
 * Netflix 电影推荐
 * 亚马逊/京东/淘宝 商品推荐
 * 豆瓣 电影/图书/内容推荐
