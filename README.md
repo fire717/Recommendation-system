@@ -7,7 +7,7 @@
 * [推荐系统实践](https://book.douban.com/subject/10769749/)
 
 ### 2.文章
-* [推荐系统老司机的十条经验](https://zhuanlan.zhihu.com/p/23847246)
+* [推荐系统老司机的十条经验 / Xavier Amatriain](https://zhuanlan.zhihu.com/p/23847246)
 
 ### 3.论文
 * Deep Learning based Recommender System: A Survey and New Perspectives，SHUAI ZHANG，2017 | [【笔记】](./note/DL_RS.md)
