@@ -2,40 +2,40 @@
 > Fire 2017.12.04 
 
 ### 1.书籍
-* ~~[集体智慧编程](https://book.douban.com/subject/3288908/)~~
-* ~~[推荐系统（[奥]D J）](https://book.douban.com/subject/24746415/)~~ | [【笔记】](./note/《推荐系统[奥]DJ.AF》笔记.md)
+* [集体智慧编程](https://book.douban.com/subject/3288908/)
+* [推荐系统（[奥]D J）](https://book.douban.com/subject/24746415/) | [【笔记】](./note/《推荐系统[奥]DJ.AF》笔记.md)
 * [推荐系统实践](https://book.douban.com/subject/10769749/)
 
 ### 2.文章
-* [~~推荐系统老司机的十条经验~~](https://zhuanlan.zhihu.com/p/23847246)
+* [推荐系统老司机的十条经验](https://zhuanlan.zhihu.com/p/23847246)
 
 ### 3.论文
-* ~~Deep Learning based Recommender System: A Survey and New Perspectives，SHUAI ZHANG，2017~~ | [【笔记】](./note/DL_RS.md)
-* ~~A Survey on Recommendation System with Collaborative Filtering using Big Data，Sonali R. Gandhi，2017~~ | [【笔记】](./note/RS_CF_survey2017.md)
+* Deep Learning based Recommender System: A Survey and New Perspectives，SHUAI ZHANG，2017 | [【笔记】](./note/DL_RS.md)
+* A Survey on Recommendation System with Collaborative Filtering using Big Data，Sonali R. Gandhi，2017 | [【笔记】](./note/RS_CF_survey2017.md)
 * Survey on Recommendation System，Lipi Shah，2016
-* ~~推荐系统研究进展，朱扬勇，孙 婧，2015~~
+* 推荐系统研究进展，朱扬勇，孙 婧，2015
 * Context-Aware Recommender Systems，Gediminas Adomavicius，2013
 * Toward the Next Generation of Recommender Systems: Applications and Research Challenges，Alexander Felfernig，2013
 * Performance of recommender algorithms on
 top-N recommendation tasks，Paolo Cremonesi，2010
-* ~~A Survey of Collaborative Filtering Techniques，Xiaoyuan Su，2009~~ | [【笔记】](./note/协同过滤学习记录.md)
-* ~~个性化推荐系统的研究进展，刘建国，2009~~
+* A Survey of Collaborative Filtering Techniques，Xiaoyuan Su，2009 | [【笔记】](./note/协同过滤学习记录.md)
+* 个性化推荐系统的研究进展，刘建国，2009
 * Introduction To Recommender Systems: Algorithms and Evaluation，ACM，2004
 * [知乎|推荐系统有哪些比较好的论文？](https://www.zhihu.com/question/25566638)
-* [~~2016 RecSys 参会总结~~](https://www.douban.com/note/583716751/)
+* [2016 RecSys 参会总结](https://www.douban.com/note/583716751/)
 * [RecSys 2017](http://www.recsyschallenge.com/2017/#dates)
 
 ### 4.网站
 * [Netflix前推荐引擎总监Xavier在KDD2014上的压轴分享「The Recommender Problem Revisited」](https://wenku.baidu.com/view/ea8baee6e87101f69f3195aa.html)
 * 论文推荐：[推荐系统的循序进阶读物（从入门到精通）](http://blog.sciencenet.cn/home.php?mod=space&uid=210641&do=blog&id=508634)
-* 三个ppt：~~[推荐系统最基础的简介](https://wenku.baidu.com/view/735c66df3186bceb19e8bba6.html)~~ | [~~推荐系统~~](https://wenku.baidu.com/view/f086510a51e79b8969022681.html) | ~~[推荐系统简介](http://www.doc88.com/p-2032064171565.html)~~
-* [~~基于用户协同过滤与基于物品协同过滤的比较~~](http://blog.csdn.net/shenxiaoming77/article/details/51566481)
+* 三个ppt：[推荐系统最基础的简介](https://wenku.baidu.com/view/735c66df3186bceb19e8bba6.html) | [推荐系统](https://wenku.baidu.com/view/f086510a51e79b8969022681.html) | [推荐系统简介](http://www.doc88.com/p-2032064171565.html)
+* [基于用户协同过滤与基于物品协同过滤的比较](http://blog.csdn.net/shenxiaoming77/article/details/51566481)
 * [【直播回顾】21天搭建推荐系统：实现“千人千面”个性化推荐（含视频）](https://yq.aliyun.com/articles/39629)
 * [探索推荐引擎内部的秘密](https://www.ibm.com/developerworks/cn/web/1103_zhaoct_recommstudy1/index.html)
-* [~~推荐系统有哪些坑？~~](https://www.zhihu.com/question/28247353)
-* [~~个性化推荐系统的六个问题~~](http://www.52ml.net/569.html)
+* [推荐系统有哪些坑？](https://www.zhihu.com/question/28247353)
+* [个性化推荐系统的六个问题](http://www.52ml.net/569.html)
 * [deep learning 可以用来做推荐系统吗？](https://www.zhihu.com/question/20830906)
-* [~~社交网络为用户进行「个性化推荐」的做法，是否会导致人们「难以接触到意见相左的人」？~~](https://www.zhihu.com/question/46480353)
+* [社交网络为用户进行「个性化推荐」的做法，是否会导致人们「难以接触到意见相左的人」？](https://www.zhihu.com/question/46480353)
 
 ### 5.现有产品
 现有产品一般都不会说明实现方式，大多数成熟商用的推荐系统都是混合型的。
