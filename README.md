@@ -18,6 +18,7 @@
 * [个性化推荐系统的六个问题](http://www.52ml.net/569.html)
 * [deep learning 可以用来做推荐系统吗？](https://www.zhihu.com/question/20830906)
 * [社交网络为用户进行「个性化推荐」的做法，是否会导致人们「难以接触到意见相左的人」？](https://www.zhihu.com/question/46480353)
+* [专治选择困难症——bandit算法](https://zhuanlan.zhihu.com/p/21388070)
 
 ### 3.论文
 * Deep Learning based Recommender System: A Survey and New Perspectives，SHUAI ZHANG，2017 | [【笔记】](./note/DL_RS.md)
