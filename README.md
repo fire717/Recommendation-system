@@ -9,10 +9,8 @@
 ### 2.文章 / 专栏 / ppt
 * [推荐系统老司机的十条经验 / Xavier Amatriain](https://zhuanlan.zhihu.com/p/23847246)
 * [Netflix前推荐引擎总监Xavier在KDD2014上的压轴分享「The Recommender Problem Revisited」](https://wenku.baidu.com/view/ea8baee6e87101f69f3195aa.html)
-* 论文推荐：[推荐系统的循序进阶读物（从入门到精通）](http://blog.sciencenet.cn/home.php?mod=space&uid=210641&do=blog&id=508634)
-* 三个ppt：[推荐系统最基础的简介](https://wenku.baidu.com/view/735c66df3186bceb19e8bba6.html) | [推荐系统](https://wenku.baidu.com/view/f086510a51e79b8969022681.html) | [推荐系统简介](http://www.doc88.com/p-2032064171565.html)
 * [基于用户协同过滤与基于物品协同过滤的比较](http://blog.csdn.net/shenxiaoming77/article/details/51566481)
-* [【直播回顾】21天搭建推荐系统：实现“千人千面”个性化推荐（含视频）](https://yq.aliyun.com/articles/39629)
+* [21天搭建推荐系统：实现“千人千面”个性化推荐（含视频）](https://yq.aliyun.com/articles/39629)
 * [探索推荐引擎内部的秘密](https://www.ibm.com/developerworks/cn/web/1103_zhaoct_recommstudy1/index.html)
 * [推荐系统有哪些坑？](https://www.zhihu.com/question/28247353)
 * [个性化推荐系统的六个问题](http://www.52ml.net/569.html)
@@ -33,8 +31,10 @@ top-N recommendation tasks，Paolo Cremonesi，2010
 * 个性化推荐系统的研究进展，刘建国，2009
 * Introduction To Recommender Systems: Algorithms and Evaluation，ACM，2004
 * [知乎|推荐系统有哪些比较好的论文？](https://www.zhihu.com/question/25566638)
+* [推荐系统的循序进阶读物（从入门到精通）](http://blog.sciencenet.cn/home.php?mod=space&uid=210641&do=blog&id=508634)
 * [2016 RecSys 参会总结](https://www.douban.com/note/583716751/)
 * [RecSys 2017](http://www.recsyschallenge.com/2017/#dates)
+* [awesome-RecSys-papers](https://github.com/YuyangZhangFTD/awesome-RecSys-papers)
 
 ### 4.现有产品
 现有产品一般都不会说明实现方式，大多数成熟商用的推荐系统都是混合型的。
