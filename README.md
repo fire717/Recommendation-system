@@ -5,7 +5,7 @@
 
 * [常见算法总结](./note/rec_algorithm.md)
 * 冷启动：系统冷启动 | 用户冷启动 | 物品冷启动
-* 推荐理由
+* [推荐理由](./note/rec_reasons.md)
 * A/B测试
 * 实时推荐
 
