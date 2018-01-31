@@ -22,7 +22,7 @@
   6. 直接先推荐一定数量的物品（热门物品、区分度高的物品等），让用户评价反馈，再进行个性化推荐。
 
 
-### 网站
+### 网站资料
 * [推荐系统冷启动](http://blog.csdn.net/huruzun/article/details/50912736)
 * [推荐系统中的冷启动和探索利用问题探讨](http://www.datagrand.com/blog/coldstartee.html)
 * [推荐系统中冷启动问题](http://blog.csdn.net/u013963380/article/details/73519212)
