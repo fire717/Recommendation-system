@@ -4,7 +4,7 @@
 ### 0.主题式学习
 
 * [常见算法总结](./note/rec_algorithm.md)
-* 冷启动
+* [冷启动](./note/rec_coldstart.md)
 * [推荐理由](./note/rec_reason.md)
 * A/B测试
 * 实时推荐
