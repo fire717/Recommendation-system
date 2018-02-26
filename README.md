@@ -57,11 +57,12 @@ top-N recommendation tasks，Paolo Cremonesi，2010
 Factor）算法)
 
 * [Youtube 视频推荐|Deep neural networks for YouTube recommendations](http://blog.csdn.net/xiongjiezk/article/details/73445835)
-* Netflix 电影推荐
+* [Netflix 电影推荐](www.infoq.com/cn/news/2013/04/netflix-ml-architecture)
 * 亚马逊/京东/淘宝 商品推荐
 * 豆瓣 电影/图书/内容推荐
-* 知乎/微博 用户推荐
+* 知乎 用户推荐
 * 豆瓣fm/网易云 音乐推荐
-* 微信朋友圈 广告推荐
-
+* [微信朋友圈 广告推荐(斑马系统)](www.infoq.com/cn/articles/wechat-banma-dmp?utm_source=infoq&utm_medium=popular_widget&utm_campaign=popular_content_list&utm_content=homepage)
+* [微博推荐架构的演进](www.infoq.com/cn/articles/evolution-of-micro-blog-recommendation)
+* [Facebook如何向十亿人推荐东西](www.infoq.com/cn/news/2015/06/facebook-recommender-system)
 
