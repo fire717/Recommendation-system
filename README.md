@@ -66,3 +66,5 @@ Factor）算法)
 * [微博推荐架构的演进](www.infoq.com/cn/articles/evolution-of-micro-blog-recommendation)
 * [Facebook如何向十亿人推荐东西](www.infoq.com/cn/news/2015/06/facebook-recommender-system)
 
+### 5.工具
+* [Python推荐系统库Surprise](https://github.com/NicolasHug/Surprise)
