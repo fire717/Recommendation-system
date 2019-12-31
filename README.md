@@ -65,6 +65,7 @@ Factor）算法)
 * [微信朋友圈 广告推荐(斑马系统)](www.infoq.com/cn/articles/wechat-banma-dmp?utm_source=infoq&utm_medium=popular_widget&utm_campaign=popular_content_list&utm_content=homepage)
 * [微博推荐架构的演进](www.infoq.com/cn/articles/evolution-of-micro-blog-recommendation)
 * [Facebook如何向十亿人推荐东西](www.infoq.com/cn/news/2015/06/facebook-recommender-system)
+* [深度学习在美图个性化推荐的应用实践](https://zhuanlan.zhihu.com/p/87466510)
 
 ### 5.工具
 * [Python推荐系统库Surprise](https://github.com/NicolasHug/Surprise)
