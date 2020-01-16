@@ -26,6 +26,7 @@
 * [社交网络为用户进行「个性化推荐」的做法，是否会导致人们「难以接触到意见相左的人」？](https://www.zhihu.com/question/46480353)
 * [专治选择困难症——bandit算法](https://zhuanlan.zhihu.com/p/21388070)
 * [MovieTaster-使用Item2Vec做电影推荐](http://lujiaying.github.io/2017/08/15/MovieTaster-%E4%BD%BF%E7%94%A8Item2Vec%E5%81%9A%E7%94%B5%E5%BD%B1%E6%8E%A8%E8%8D%90/)
+* [推荐系统实战之FM（Factorization Machine）算法——keras算法练习](https://www.jianshu.com/p/b838ec6afccf)
 
 ### 3.论文
 * Deep Learning based Recommender System: A Survey and New Perspectives，SHUAI ZHANG，2017 | [【笔记】](./note/DL_RS.md)
