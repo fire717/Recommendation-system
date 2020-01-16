@@ -66,6 +66,7 @@ Factor）算法)
 * [微博推荐架构的演进](www.infoq.com/cn/articles/evolution-of-micro-blog-recommendation)
 * [Facebook如何向十亿人推荐东西](www.infoq.com/cn/news/2015/06/facebook-recommender-system)
 * [深度学习在美图个性化推荐的应用实践](https://zhuanlan.zhihu.com/p/87466510)
+* [阿里妈妈新突破：深度树匹配如何扛住千万级推荐系统压力](https://blog.csdn.net/cpongo3/article/details/89027848)
 
 ### 5.工具
 * [Python推荐系统库Surprise](https://github.com/NicolasHug/Surprise)
