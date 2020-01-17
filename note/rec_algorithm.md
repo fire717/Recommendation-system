@@ -73,10 +73,10 @@
 	3. 物品相关推荐集更多的是基于行为，不太适合做详情页推荐
 
 ### 6. 深度学习
-目前有很多深度学习推荐系统的研究，但是还没有端到端的纯dl的方法。目前我了解到的有：
 
 1. [基于电影海报的深度学习方法](https://www.leiphone.com/news/201705/rOD6wP779DLXx8mI.html): 其实也是基于内容的，只是用深度学习来获取海报图像的内容。
 2. [youtube视频推荐](http://blog.csdn.net/xiongjiezk/article/details/73445835): 整个推荐系统分为候选集生成（也称为搜索/召回）和排序两个阶段。其中召回阶段负责基于用户画像及场景数据从海量的视频库（百万级别）中将相关度最高的资源检索出来，作为候选集； 排序阶段负责基于更加精细的特征对候选集（百级别）进行排序，最终呈现给用户的只是很少一部分数据。
+3. [Deep Interest Network](https://www.jianshu.com/p/132da6864d40)|[开源代码](https://github.com/zhougr1993/DeepInterestNetwork)
 
 ### 7.其它
 * [MovieTaster-使用Item2Vec做电影推荐](http://lujiaying.github.io/2017/08/15/MovieTaster-%E4%BD%BF%E7%94%A8Item2Vec%E5%81%9A%E7%94%B5%E5%BD%B1%E6%8E%A8%E8%8D%90/): 把Word2Vec迁移到item-based CF.这篇博文是根据豆瓣的豆列来做的。从自然语言序列迁移到物品集合，丢失了空间／时间信息，还无法对用户行为程度建模（喜欢和购买是不同程度的强行为）。好处是可以忽略用户－物品关系，即便获得的订单不包含用户信息，也可以生成物品集合。而论文的结论证明，在一些场景下序列信息的丢失是可忍受的。
