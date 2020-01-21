@@ -62,7 +62,8 @@
 * 资料：
 	1. [推荐算法学习-SVM，RSVM，ASVM，SVDPP学习公式推导](http://blog.csdn.net/chloezhao/article/details/53186665)
 	2. [在Python中实现你自己的推荐系统-svd](http://python.jobbole.com/85516/) 
-	3. [潜在因子算法](https://www.zhihu.com/question/26743347/answer/34714804)
+	3. [Factorization Machines(FM论文)](https://www.csie.ntu.edu.tw/~b97053/paper/Rendle2010FM.pdf)
+	4. [潜在因子算法](https://www.zhihu.com/question/26743347/answer/34714804)
 
 * 基本原理：对用户历史行为数据建立用户-物品评分矩阵，然后使用矩阵分解相关算法进行因子分解，得到低维稠密的用户特征矩阵和物品特征矩阵，然后两个矩阵相乘就可以得到估计的得分矩阵。
 * 优点：
