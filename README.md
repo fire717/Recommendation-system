@@ -13,6 +13,7 @@
 * [集体智慧编程](https://book.douban.com/subject/3288908/) | [【代码】](https://github.com/fire717/Machine-Learning/tree/master/JTZHBC)
 * [推荐系统（[奥]D J）](https://book.douban.com/subject/24746415/) | [【笔记】](./note/《推荐系统[奥]DJ.AF》笔记.md)
 * [推荐系统实践](https://book.douban.com/subject/10769749/)
+* [深度学习推荐系统【2020】](https://book.douban.com/subject/35013197/)
 
 ### 2.文章 / 专栏 / ppt
 * [推荐系统老司机的十条经验 / Xavier Amatriain](https://zhuanlan.zhihu.com/p/23847246)
