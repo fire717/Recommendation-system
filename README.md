@@ -1,6 +1,11 @@
 ## 推荐系统资料收集
 > Fire 2017.12.04 
 
+做了一个[推荐系统demo](https://github.com/fire717/RecommendationSystemDemo)：
+* 基于Surprise实现的具有完整功能的推荐系统服务，并利用flask框架实现了简单的接口调用
+* 封装了完整的更新日志数据、训练、根据id查询推荐结果等功能
+* 包含了常见的SVD、FM等算法
+
 ### 0.主题式学习
 
 * [常见算法总结](./note/rec_algorithm.md)
